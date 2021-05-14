@@ -1,6 +1,7 @@
 .card-text{
     font-size: 30px;
     color:blue;
+    font-weight: bolder;
 }
 
 sup{
@@ -11,9 +12,8 @@ h1{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
-#totaldeaths{
+#totaldeaths,#newdeaths{
     color: red;
-    font-weight: bolder;
 }
 
 #recovered{
